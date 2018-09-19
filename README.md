@@ -9,7 +9,7 @@ This project sample is made for single player and might not implement the best p
 
 - Different types of projectile abilities that use GameplayEvents to detect Hits:
   * Normal projectile that damages one enemy
-  * AoE projectiles that damage more than one enemy on hit or on exploede
+  * AoE projectiles that damage more than one enemy on hit or on explode
   * A fire projectile that does fire damage over time
   * An ice projectile that slows target hit
   
