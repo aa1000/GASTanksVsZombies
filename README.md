@@ -21,7 +21,7 @@ This project sample is made for single player and might not implement the best p
   * Using defense power to reduce damage taken
   * Targets taking extra damage from FireDamage type
   
-- GameplayCues that shows the effects of abilties
+- GameplayCues that shows the effects of abilities
   * Targets on fire are tainted red
   * Frozen targets are tainted blue
   * All effects and cues would work on both tanks and zombies so it's possible to make AI tanks or make zombies use fire and ice abilities/ projectiles
